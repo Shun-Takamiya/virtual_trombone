@@ -1,1 +1,2 @@
 # virtual_trombone
+技育展2025のためのリポジトリ
