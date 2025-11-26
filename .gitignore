@@ -28,5 +28,8 @@
 # Visual Studio Codeの設定フォルダ
 .vscode/
 
+# Python仮想環境フォルダ
+.venv/
+
 # Pythonのキャッシュフォルダ
 __pycache__/
